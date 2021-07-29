@@ -23,4 +23,5 @@ You can click the Preview link to take a look at your changes.
 
 | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ishant-sharma-4b7ab41b0) | You'll find my professional history there. |
  <h1>https://ishh91.github.io/</h1>
+ <h1>CoderIshh.github.io</h1>
  <h2>Hasle le beta👋</h2>
