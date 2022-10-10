@@ -29,6 +29,14 @@ You can click the Preview link to take a look at your changes.
     </a>
 </p>
 <br/>
+## 📊 My Github Stats
+
+  <br/>
+    <a href="https://github-readme-stats.vercel.app/api?username=Ishh91&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ishh91&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishh91&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishh91&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+<br/>
+<br/>
 
 <a href="https://activity-graph.herokuapp.com/graph?username=Ishh91&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"><img alt="Contirbution Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ishh91&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ishant-sharma-4b7ab41b0) | You'll find my professional history there. |
