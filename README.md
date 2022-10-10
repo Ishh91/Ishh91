@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 <br/>
 
 <p align="center">
-    <a href="https://github-readme-streak-stats.herokuapp.com?user=Harshita781&theme=black-ice&stroke=060A0CD0">
+    <a href="https://github-readme-streak-stats.herokuapp.com?user=Ishh91&theme=black-ice&stroke=060A0CD0">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Harshita Sharma's streak" src="https://github-readme-streak-stats.herokuapp.com?user=Harshita781&theme=black-ice&stroke=060A0CD0"/>
     </a>
 </p>
