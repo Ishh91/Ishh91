@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 &nbsp; I’m currently doing a Flutter frame work and Web Development.
 - 🤔 &nbsp; Finding New ways to Explore technologies for quick sustainment.
-- 🎓 &nbsp; Studying Computer Science Engeering.
+- 🎓 &nbsp; Studying Computer Science Engineering.
 -  ☕ &nbsp; A cup of tea is solution of all stress.
 
 <h3>🛠 Tech Stack</h3>
