@@ -45,4 +45,3 @@ You can click the Preview link to take a look at your changes.
  <h1></h1>
  <h2>https://coderishh.github.io/<h2>
  <h2>https://ishantportfolio.000webhostapp.com/</h2>
- <h2>Hasta la vista, baby.👋</h2>
